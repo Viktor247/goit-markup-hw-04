@@ -48,7 +48,7 @@ body {
   letter-spacing: 0.03em;
 }
 
-a {
+.item a {
   text-decoration: none;
 }
 .container {
